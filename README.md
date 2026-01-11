@@ -1,7 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr7&exclude_repo=stm32_f0_snake,meson_embedded_f0&layout=donut&langs_count=7&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wr7&hide_rank=true&theme=omni&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **wr7/wr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
